@@ -25,5 +25,12 @@ Python, Streamlit, Html, Dotenv
 2. Скопіювати `.env.example` у `.env` і вставити свій API-ключ.
 3. `streamlit run app.py`
 
+<img width="1517" height="877" alt="image" src="https://github.com/user-attachments/assets/fe1f7402-25dd-45a9-9203-3e87f625d040" />
+<img width="1562" height="1014" alt="image" src="https://github.com/user-attachments/assets/c94a731a-7b7f-4c26-a527-ef90c33a84f4" />
+<img width="1586" height="1319" alt="image" src="https://github.com/user-attachments/assets/de3952ca-e510-496c-af2c-0ea3ad1e966f" />
+
+
+
+
 ## Автор
 Чікішев Артем, C4414.
